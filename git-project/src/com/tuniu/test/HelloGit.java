@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("hello git project!");
         System.out.println("hello git project!");
         System.out.println("hello git project!");
+        System.out.println("idea修改重新上传远程仓库");
         //hello test
     }
 
@@ -18,5 +19,6 @@ public class HelloGit {
         i += 10;
         System.out.println(i);
         //shuchu
+
     }
 }
